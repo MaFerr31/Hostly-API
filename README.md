@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# Hostly-API
+Refatoração do Backend da aplicação Hostly ---> antiga BlueLotus agora multi-Hoteis
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -97,7 +100,3 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
-=======
-# Hostly-API
-Refatoração do Backend da aplicação BlueLotus, focada em SaaS para a busca e reserva de Multi-hotéis.
->>>>>>> a8eaba57f926b667c5fef5b6de200e7c574add04
